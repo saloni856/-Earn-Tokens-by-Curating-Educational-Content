@@ -50,6 +50,8 @@ By leveraging blockchain technology, EduCuration ensures that the platform is tr
 - **Staking Mechanism**: Introduce staking where users can stake **EduTokens** to gain voting power or earn additional rewards.
 
 ---
+![image](https://github.com/user-attachments/assets/658dc80a-10bc-4a02-bd42-4ad365dcc88b)
+
 
 
 
